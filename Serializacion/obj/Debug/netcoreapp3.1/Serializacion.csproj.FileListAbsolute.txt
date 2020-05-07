@@ -1,0 +1,13 @@
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\bin\Debug\netcoreapp3.1\Serializacion.exe
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\bin\Debug\netcoreapp3.1\Serializacion.deps.json
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\bin\Debug\netcoreapp3.1\Serializacion.runtimeconfig.json
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\bin\Debug\netcoreapp3.1\Serializacion.runtimeconfig.dev.json
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\bin\Debug\netcoreapp3.1\Serializacion.dll
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\bin\Debug\netcoreapp3.1\Serializacion.pdb
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\obj\Debug\netcoreapp3.1\Serializacion.csprojAssemblyReference.cache
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\obj\Debug\netcoreapp3.1\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\obj\Debug\netcoreapp3.1\Serializacion.AssemblyInfoInputs.cache
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\obj\Debug\netcoreapp3.1\Serializacion.AssemblyInfo.cs
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\obj\Debug\netcoreapp3.1\Serializacion.dll
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\obj\Debug\netcoreapp3.1\Serializacion.pdb
+C:\Users\alvar\Desktop\ejercicio-serializacion-AlvaroCespedes\Serializacion\obj\Debug\netcoreapp3.1\Serializacion.genruntimeconfig.cache
